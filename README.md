@@ -19,4 +19,6 @@ Googleレビューと食べログから、新規客がコンスタントに来�
 
 ## デザイン情報
 - フォント：しっぽり明朝
-- カラー：メインカラー`#904e4e`, サブカラー `#8e5767`
+- カラー：メインカラー <span style="background-color:#904e4e; color:white; padding:3px 8px; border-radius:5px;">#904e4e</span>, 
+  サブカラー <span style="background-color:#8e5767; color:white; padding:3px 8px; border-radius:5px;">#8e5767</span>
+
